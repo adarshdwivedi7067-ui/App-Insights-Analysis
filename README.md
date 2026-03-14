@@ -1,5 +1,6 @@
 . About the Project
 This project analyzes Google Play Store apps data to uncover insights about installs, ratings, reviews, and category distribution. The dashboard was built using Looker Studio and supported by SQL/Excel preprocessing.
+
 2. Requirements
 - Dataset: Google Play Store dataset
 - Tools: Looker Studio, SQL, Excel, Python (optional)
