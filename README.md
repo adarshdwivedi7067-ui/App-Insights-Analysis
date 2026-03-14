@@ -1,4 +1,4 @@
-📱 Google Play Store Apps: Market & Insights Analysis
+ Google Play Store Apps: Market & Insights Analysis
 
 ## Project Overview
 Mobile app performance and user engagement are critical factors in today’s digital ecosystem.  
