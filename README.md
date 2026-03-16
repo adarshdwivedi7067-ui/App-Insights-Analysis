@@ -80,7 +80,7 @@ Dataset contains **9,367 applications** and includes the following attributes:
 
 # Dashboard Preview
 
-![Dashboard](Dashboard.png)
+!(Dashboard.png)
 
 The dashboard includes:
 
@@ -153,47 +153,6 @@ Games lead the market in installs and engagement.
 * Maintain **regular updates**
 * Monitor user feedback for feature improvements
 
-### For Business Strategy
-
-* Explore **niche markets** like:
-
-  * Medical
-  * Finance
-  * Lifestyle
-
-These categories have **lower competition but growing demand**.
-
----
-
-# Project Structure
-
-```
-Google-Play-Store-Insights
-│
-├── Dashboard.png
-├── googleplaystore.csv
-├── EDA_Report.pdf
-├── App_Insights_Dashboard.pdf
-└── README.md
-```
-
----
-
-# Future Improvements
-
-* Machine Learning model to **predict app success**
-* Sentiment analysis on user reviews
-* Time-series analysis for install trends
-* Advanced category performance analysis
-
----
-
-# Author
-
-**Adarsh Dwivedi**
-Data Analytics Project
-
----
 
 # Conclusion
 
